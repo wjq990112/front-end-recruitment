@@ -17,3 +17,4 @@
 ## 已发布的招聘信息
 
 - [校招/社招：美团-到店事业群-平台技术部-前端技术研发](https://github.com/wjq990112/Front-End-Recruitment/issues/1)
+- [社招：字节跳动-飞书文档](https://github.com/wjq990112/Front-End-Recruitment/issues/2)
