@@ -20,7 +20,7 @@
 
 - [实习：阿里巴巴-新零售事业群-CBU 体验技术部](https://github.com/wjq990112/Front-End-Recruitment/issues/3)
 - [实习：字节跳动-互娱研发-前端架构组](https://github.com/wjq990112/Front-End-Recruitment/issues/4)
-- [实习：腾讯-WXG 微信事业群-搜索应用部-模式识别中心-对话平台组](https://github.com/wjq990112/Front-End-Recruitment/issues/4)
+- [实习：腾讯-WXG 微信事业群-搜索应用部-模式识别中心-对话平台组](https://github.com/wjq990112/Front-End-Recruitment/issues/5)
 
 ### 校招
 
