@@ -16,5 +16,17 @@
 
 ## 已发布的招聘信息
 
+### 实习
+
+- [实习：阿里巴巴-新零售事业群-CBU 体验技术部](https://github.com/wjq990112/Front-End-Recruitment/issues/3)
+- [实习：字节跳动-互娱研发-前端架构组](https://github.com/wjq990112/Front-End-Recruitment/issues/4)
+- [实习：腾讯-WXG 微信事业群-搜索应用部-模式识别中心-对话平台组](https://github.com/wjq990112/Front-End-Recruitment/issues/4)
+
+### 校招
+
+- [校招/社招：美团-到店事业群-平台技术部-前端技术研发](https://github.com/wjq990112/Front-End-Recruitment/issues/1)
+
+### 社招
+
 - [校招/社招：美团-到店事业群-平台技术部-前端技术研发](https://github.com/wjq990112/Front-End-Recruitment/issues/1)
 - [社招：字节跳动-飞书文档](https://github.com/wjq990112/Front-End-Recruitment/issues/2)
