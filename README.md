@@ -19,6 +19,7 @@
 ### 实习
 
 - [实习：阿里巴巴-新零售事业群-CBU 体验技术部](https://github.com/wjq990112/Front-End-Recruitment/issues/3)
+- [实习：字节跳动-互娱研发-前端架构组](https://github.com/wjq990112/Front-End-Recruitment/issues/4)
 
 ### 校招
 
