@@ -25,6 +25,7 @@
 ### 校招
 
 - [校招/社招：美团-到店事业群-平台技术部-前端技术研发](https://github.com/wjq990112/Front-End-Recruitment/issues/1)
+- [校招：阿里巴巴-新零售事业群-淘系技术部](https://github.com/wjq990112/Front-End-Recruitment/issues/7)
 
 ### 社招
 
