@@ -22,6 +22,7 @@
 - [实习：字节跳动-互娱研发-前端架构组](https://github.com/wjq990112/Front-End-Recruitment/issues/4)
 - [实习：腾讯-WXG 微信事业群-搜索应用部-模式识别中心-对话平台组](https://github.com/wjq990112/Front-End-Recruitment/issues/6)
 - [实习：阿里巴巴-新零售技术事业群-淘系技术部-营销活动](https://github.com/wjq990112/Front-End-Recruitment/issues/8)
+- [实习：百度-MEG 事业群-智能小程序研发部-前端基础技术团队](https://github.com/wjq990112/Front-End-Recruitment/issues/11)
 
 ### 校招
 
