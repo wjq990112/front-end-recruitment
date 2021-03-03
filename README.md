@@ -23,6 +23,7 @@
 - [实习：阿里巴巴-新零售技术事业群-淘系技术部-营销活动](https://github.com/wjq990112/Front-End-Recruitment/issues/8)
 - [实习：百度-MEG 事业群-智能小程序研发部-前端基础技术团队](https://github.com/wjq990112/Front-End-Recruitment/issues/11)
 - [实习：阿里巴巴-新零售事业群-企业智能事业部](https://github.com/wjq990112/Front-End-Recruitment/issues/12)
+- [实习：阿里巴巴-新零售事业群-淘系技术部-淘宝直播](https://github.com/wjq990112/Front-End-Recruitment/issues/13)
 
 ### 校招
 
