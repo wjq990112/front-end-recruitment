@@ -18,6 +18,7 @@
 
 ### 实习
 
+- [实习：阿里巴巴-新零售技术事业群-淘系技术部-运营与工作台](https://github.com/wjq990112/Front-End-Recruitment/issues/15)
 - [实习：阿里巴巴-新零售事业群-CBU 体验技术部](https://github.com/wjq990112/Front-End-Recruitment/issues/3)
 - [实习：字节跳动-互娱研发-前端架构组](https://github.com/wjq990112/Front-End-Recruitment/issues/4)
 - [实习：阿里巴巴-新零售技术事业群-淘系技术部-营销活动](https://github.com/wjq990112/Front-End-Recruitment/issues/8)
