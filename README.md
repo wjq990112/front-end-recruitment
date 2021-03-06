@@ -25,6 +25,7 @@
 - [实习：阿里巴巴-新零售事业群-企业智能事业部](https://github.com/wjq990112/Front-End-Recruitment/issues/12)
 - [实习：阿里巴巴-新零售事业群-淘系技术部-淘宝直播](https://github.com/wjq990112/Front-End-Recruitment/issues/13)
 - [实习：阿里巴巴-新零售事业群-淘系技术部-前端架构](https://github.com/wjq990112/Front-End-Recruitment/issues/14)
+- [实习：阿里巴巴-新零售技术事业群-淘系技术部-运营与工作台](https://github.com/wjq990112/Front-End-Recruitment/issues/15)
 
 ### 校招
 
