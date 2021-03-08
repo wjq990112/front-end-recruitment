@@ -37,3 +37,4 @@
 - [校招/社招：美团-到店事业群-平台技术部-前端技术研发](https://github.com/wjq990112/Front-End-Recruitment/issues/1)
 - [社招：字节跳动-飞书文档](https://github.com/wjq990112/Front-End-Recruitment/issues/2)
 - [社招：腾讯-微信事业群-微信游戏平台](https://github.com/wjq990112/Front-End-Recruitment/issues/9)
+- [社招/校招/实习：字节跳动-懂车帝](https://github.com/wjq990112/Front-End-Recruitment/issues/17)
