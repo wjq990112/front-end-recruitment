@@ -40,3 +40,4 @@
 - [社招：字节跳动-飞书文档](https://github.com/wjq990112/Front-End-Recruitment/issues/2)
 - [社招：腾讯-微信事业群-微信游戏平台](https://github.com/wjq990112/Front-End-Recruitment/issues/9)
 - [社招/校招/实习：字节跳动-懂车帝](https://github.com/wjq990112/Front-End-Recruitment/issues/17)
+- [社招：招商证券-信息技术中心武汉科技分中心-托管业务开发团队](https://github.com/wjq990112/Front-End-Recruitment/issues/19)
