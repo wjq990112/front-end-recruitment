@@ -28,6 +28,7 @@
 - [实习：阿里巴巴-新零售技术事业群-淘系技术部-运营与工作台](https://github.com/wjq990112/Front-End-Recruitment/issues/15)
 - [社招/校招/实习：字节跳动-懂车帝](https://github.com/wjq990112/Front-End-Recruitment/issues/17)
 - [实习/校招：腾讯-平台与内容事业群-腾讯看点-生态研发中心](https://github.com/wjq990112/Front-End-Recruitment/issues/20)
+- [实习: 阿里巴巴-阿里云智能事业群-大钉钉-智能协同与视频云事业部-文档产品](https://github.com/wjq990112/Front-End-Recruitment/issues/22)
 
 ### 校招
 
